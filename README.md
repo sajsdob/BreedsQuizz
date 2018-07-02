@@ -1,6 +1,6 @@
 # BreedsQuizz
 Breeds Quizz
 
-Quizz that finds you a perfect breed just for you based on the questions you provide.
+Quizz that finds a perfect dog breed just for you based on the questions you provide.
 
 REACT/SASS
